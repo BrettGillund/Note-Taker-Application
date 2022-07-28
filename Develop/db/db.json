@@ -1,15 +1,12 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text"
+    "title": "Sophie is the best dog!",
+    "text": "Except when she rolls in the mud...",
+    "id": "3e0c"
   },
   {
-    "title": "fasdfasf",
-    "text": "asdfasdf"
-  },
-  {
-    "title": "I am almost done with this",
-    "text": "soon",
-    "id": "ecdc"
+    "title": "My favorite bands",
+    "text": "Metallica, Foo Fighters, Linkin Park.",
+    "id": "67ab"
   }
 ]

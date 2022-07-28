@@ -12,10 +12,6 @@ app.use(express.json());
 
 app.use('/', api_routes);
 
-app.get('/notes', (request, response) => {
-    response.sendFile(path.join(__dirname, './Develop/public/notes.html'))
-});
-
 app.listen(PORT, () => {
     console.log(`listing on port ${PORT}`);
 });
